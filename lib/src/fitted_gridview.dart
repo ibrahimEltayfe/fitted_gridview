@@ -1,7 +1,5 @@
 library fitted_gridview;
 
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 
 class FittedGridView extends StatefulWidget {

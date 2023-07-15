@@ -1,6 +1,6 @@
 name: fitted_gridview
-description: A FittedGridView is a package that can fit its content in the parent and show it as gridview.
-version: 0.0.1
+description: A FittedGridView is a package that can fit its content in the parent container and show it as gridview.
+version: 1.0.0
 homepage: https://github.com/ibrahimEltayfe/fitted_gridview
 
 environment:
